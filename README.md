@@ -1,4 +1,4 @@
-# はじめまして、KOKIです
+# はじめまして、KOUKIです
 
 Webエンジニア転職を目指して学習・開発を進めています。  
 現在は **Rails / Next.js / TypeScript** を中心に、  
