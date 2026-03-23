@@ -59,5 +59,6 @@ Webエンジニア転職を目指して学習・開発を進めています。
 - Query Object / Service Object の責務整理
 
 ## Links
-- Qiita: https://qiita.com/xxxx
-- X: https://x.com/xxxx
+- Qiita: https://qiita.com/@K0_u817
+- X: https://x.com/@kou01180810
+
