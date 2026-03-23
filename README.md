@@ -11,9 +11,6 @@ Webエンジニア転職を目指して学習・開発を進めています。
 - 学習内容のQiita / X での発信
 
 ## Tech Stack
-
-## Tech Stack
-
 <table>
   <tr>
     <td align="center" width="260">
