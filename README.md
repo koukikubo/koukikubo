@@ -12,9 +12,6 @@ Webエンジニア転職を目指して学習・開発を進めています。
 
 ## Tech Stack
 <table>
-  ## Tech Stack
-
-<table>
   <tr>
     <td align="center" width="260">
       <strong>Backend</strong><br><br>
