@@ -25,7 +25,7 @@ Webエンジニア転職を目指して学習・開発を進めています。
     <td align="center" width="260">
       <strong>Database</strong><br><br>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres&theme=light" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
       </a>
     </td>
   </tr>
