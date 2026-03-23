@@ -11,10 +11,35 @@ Webエンジニア転職を目指して学習・開発を進めています。
 - 学習内容のQiita / X での発信
 
 ## Tech Stack
-- Backend: Ruby on Rails
-- Frontend: Next.js / React / TypeScript
-- DB: PostgreSQL
-- Infra/Tools: Docker / GitHub / VS Code
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <strong>Backend</strong><br><br>
+      <img src="./images/ruby.png" alt="Ruby" width="48" />
+      <img src="./images/rails.png" alt="Rails" width="48" />
+    </td>
+    <td align="center" width="220">
+      <strong>Database</strong><br><br>
+      <img src="./images/postgresql.png" alt="PostgreSQL" width="48" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <strong>Frontend</strong><br><br>
+      <img src="./images/nextjs.png" alt="Next.js" width="48" />
+      <img src="./images/react.png" alt="React" width="48" />
+      <img src="./images/typescript.png" alt="TypeScript" width="48" />
+    </td>
+    <td align="center" width="220">
+      <strong>Tool</strong><br><br>
+      <img src="./images/docker.png" alt="Docker" width="48" />
+      <img src="./images/git.png" alt="Git" width="48" />
+      <img src="./images/github.png" alt="GitHub" width="48" />
+      <img src="./images/vscode.png" alt="VS Code" width="48" />
+    </td>
+  </tr>
+</table>
 
 ## Main Project
 ### 飲食店向け予約管理・CRMシステム
