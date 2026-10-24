@@ -1,3 +1,6 @@
+## Activity Graph
+[![Kouki's GitHub activity graph](https://raw.githubusercontent.com/koukikubo/koukikubo/main/assets/activity-graph.svg)](https://github.com/koukikubo/koukikubo/blob/main/assets/activity-graph.svg)
+
 Webエンジニア転職を目指して学習・開発を進めています。  
 現在は **Rails / Next.js / TypeScript** を中心に、  
 **飲食店向け予約管理・CRMシステム** の開発に取り組んでいます。
