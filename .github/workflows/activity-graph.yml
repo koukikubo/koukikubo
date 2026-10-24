@@ -4,6 +4,12 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/activity-graph.yml"
+      - "scripts/generate-activity-graph.mjs"
 
 permissions:
   contents: write
